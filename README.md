@@ -3,4 +3,6 @@
 A simple demo app
 
 ## Changelog
-- Repository created
+
+- 18.10.2021
+  [x] Repository has been created
