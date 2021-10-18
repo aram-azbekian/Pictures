@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "hybrid_drum.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
