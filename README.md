@@ -4,5 +4,5 @@ A simple demo app
 
 ## Changelog
 
-- 18.10.2021
-  [x] Repository has been created
+### 18.10.2021
+- Repository has been created
